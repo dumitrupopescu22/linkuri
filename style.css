@@ -1,0 +1,10 @@
+.linkuri1 a{
+    text-align: center; text-decoration: none; font-size: larger; text-shadow: 3px 3px 3px rgb(22, 18, 18); color: white;
+}
+
+.linkuri2 a{
+    text-align: center; text-decoration: none; font-size: larger; text-shadow: 3px 3px 3px rgb(22, 18, 18); color: rgb(24, 211, 211);
+}
+
+.linkuri3 a{
+    text-align: center; text-decoration: none; font-size: larger; text-shadow: 3px 3px 3px rgb(22, 18, 18); color: rgba(33, 224, 15, 0.973);
